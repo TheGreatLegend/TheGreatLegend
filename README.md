@@ -6,6 +6,7 @@ Just a student with excellance in Python Logics and Math.
 <i>X (Twitter)</i> - <a href="https://twitter.com/thegreat051111/">thegreat051111</a> <br>
 <i>Discord</i> - <a href="https://discord.com/">TheGreat0511</a> <br>
 <i>Chess.com</i> - <a href="https://link.chess.com/friend/seXxdR">TheGreat-Knight</a>
+<i>Scratch</i> - <a href="https://scratch.mit.edu/users/thegreat0511/">TheGreat0511</a>
 
 # Current Project
 I am currently working on a <strong>Tic Tac Toe AI</strong>
