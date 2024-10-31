@@ -9,7 +9,7 @@ Just a student with excellance in Python Logics and Math.
 <i>Scratch</i> - <a href="https://scratch.mit.edu/users/thegreat0511/">TheGreat0511</a>
 
 # Current Project
-I am currently working on a <strong>Notes Hub</strong>
+I am currently working on a <strong>Notes App</strong>
 <!---
 TheGreatLegend/TheGreatLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
